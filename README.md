@@ -6,7 +6,7 @@ This repository features the playable demo version of The Singular Assassin.
 #### How to install:
 Extract "The Singular Assassin.rar" file using WinRAR.\
 Open the extracted folder.\
-Run "The Singular Assassin.exe" file to play.\
+Run "The Singular Assassin.exe" file to play.
 
 #### Controls
 W - Move Up\
