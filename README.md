@@ -10,9 +10,9 @@ Open the extracted folder.\
 Run "The Singular Assassin.exe" file to play.
 
 #### Controls
-W - Move Up\
+W - Move Forward\
 A - Move Left\
-S - Move Down\
+S - Move Back\
 D - Move Right\
 Mouse - Look Around\
 Mouse Left Click - Attack\
